@@ -1,0 +1,137 @@
+body { 
+    margin:0 auto;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.content { 
+    width: 80%;
+    margin: 0 auto;
+    padding: 1%;
+    display: flex; 
+    justify-content: center;
+}
+
+
+.inicio .logo {
+    width: 50%;
+    margin: 0 auto;
+    display: flex; 
+    justify-content: center;
+    padding-top:3%;
+}
+
+.inicio .botao a {
+    clear: both;
+    display: flex; 
+    justify-content: center;
+    margin-top: 3%;
+}
+
+
+.regras {
+    padding-top:3%;
+}
+
+.regras form {
+    text-align:right;
+}
+
+.regras .botao {
+    margin-top:-12%;
+    padding-right:10%;
+}
+
+
+
+.mapa .logo {
+    margin: 0 auto;
+    display: flex; 
+    justify-content: center;
+}
+
+.mapa .botao {
+    top: 80%;
+    left:22%;
+    width: 65%;
+    text-align: right;
+    position: absolute;
+}
+
+
+
+
+.questions {
+    width: 50%;
+    float:left;
+    text-align: center;
+    margin-top:3%;
+    align-items: center;
+    justify-content: center;
+}
+
+.questions p {
+    top: 10%;
+    left: 19%;
+    width: 29%;
+    height: 30%;
+    color:#fff;
+    display: flex;
+    font-size: 1.7vw;
+    font-weight: bold;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+}
+
+.questions .botao-ver-dicas {
+    color:#555;
+    margin-left:5%;
+    font-size: 1.4vw;
+    text-decoration: none;
+    background:greenyellow;
+    padding: 22px 25px !important;
+}
+
+.questions .botao-ver-dicas:hover {
+    color:#fff;
+    margin-left:5%; 
+    font-size: 1.4vw;
+    text-decoration: none;
+    background:rgb(138, 206, 37);
+    padding: 22px 25px !important;
+}
+
+.answers {
+    float:left;
+    margin-top:3%;
+    margin-left:3%;
+    padding-top:3%;
+    justify-content: center;
+}
+
+.answers .botao {
+    margin: 0;
+    width: 90%;
+    padding: 15px;
+    text-align: center;
+}
+
+.answers .botao a:hover {
+    text-decoration: underline;
+}
+
+.answers .botao a {
+    left: 60%;
+    width: 21%;
+    height: 13%;
+    color:#fff;
+    margin-top:-7%;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5vw;
+    font-weight: bold;
+    display: flex;
+    position: absolute;
+    text-decoration: none;
+}

@@ -1,0 +1,13 @@
+{
+    "name": "danimathgames-safebox",
+    "version": "1.0",
+    "description": "",
+    "main": "index.php",
+    "author": "Thalisson Barbosa",
+    "license": "GNU",
+    "dependencies": {
+      "jquery": "^3.5.1",
+      "sweetalert2": "9.10.12"
+    }
+  }
+  

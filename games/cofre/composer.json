@@ -1,0 +1,11 @@
+{
+     "autoload": {
+          "psr-4": {
+            "DaniMathgames\\SafeBox\\": "app/model"
+          },
+          "classmap": ["app/model/"]
+      },
+      "minimum-stability": "alpha",
+      "prefer-stable": true
+  }
+  
